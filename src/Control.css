@@ -1,0 +1,18 @@
+.letter {
+    outline: 0.1em solid silver;    
+    margin: .5rem;
+    padding: .3rem;
+    cursor: pointer;
+}
+
+.right {
+    outline: 0.1em solid green;   
+    background-color: silver;  
+    cursor: default;
+}
+
+.wrong {
+    outline: 0.1em solid red;    
+    background-color: silver;  
+    cursor: default;
+}

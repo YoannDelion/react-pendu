@@ -1,0 +1,21 @@
+.game {
+  display: flex;
+  flex-wrap: wrap;
+  width: 400px;
+  margin: auto;
+  user-select: none;
+}
+
+.word {
+  margin: auto;
+  letter-spacing: .5rem;
+  font-size: 2rem;
+}
+
+.controls {
+  display: flex;
+  flex-wrap: wrap;
+  padding-top: 4rem;
+  margin: auto;
+  justify-content: center
+}
